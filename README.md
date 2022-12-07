@@ -1,4 +1,4 @@
-<img src="https://maslakone.com/images/logoposyandu.png" width="400">
+<img src="https://maslakone.com/images/logo-app.png" width="400">
 
 
 ## About Laravel
